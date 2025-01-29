@@ -1,5 +1,7 @@
 # SDS (Supply, Diagnostics, and Services)
 
+![Logo SDS](https://github.com/user-attachments/assets/97887bfd-b671-47c0-9120-83a6e91219fa)
+
 Tienda electrónica de suministros, diagnósticos y servicios.
 > <br> **Gerente:** _Danna Montalvo_
 > <br> **Vendedor:** _Sebastián Llorente_
@@ -16,4 +18,4 @@ Nuestros servicios incluyen:
 1. Escríbenos vía instagram (@sds_services_).
 2. Déjanos un mensaje.
 
-[Nuestro Catálogo](https://www.canva.com/design/DAGdb8EfeVo/RTSD--cymPbktyv7YdaFng/edit?utm_content=DAGdb8EfeVo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Más sobre nosotros](https://www.canva.com/design/DAGdb8EfeVo/RTSD--cymPbktyv7YdaFng/edit?utm_content=DAGdb8EfeVo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
